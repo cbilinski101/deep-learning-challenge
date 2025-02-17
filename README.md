@@ -1,6 +1,7 @@
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0%2B-orange.svg)
+[![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/license/mit)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/downloads/release/python-380/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.0%2B-orange.svg)](https://www.tensorflow.org/install)
+
 
 # **Alphabet Soup Deep Learning Model Performance Report**
 
